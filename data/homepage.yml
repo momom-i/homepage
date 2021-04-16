@@ -20,26 +20,46 @@ skill:
     - title: JavaScript
       logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
       description: Details coming soon, contact me if you want to know more
+    - title: TypeScript
+      logo: https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg
+      description: Details coming soon, contact me if you want to know more
     - title: Python
       logo: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: PostgresSQL
+      logo: https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg
       description: Details coming soon, contact me if you want to know more
 experience:
   enable: true
   item:
+    - logo: https://res.cloudinary.com/dpmmf3aoz/image/upload/v1618555164/axaLogo_tgtmaz.png
+      title: Data Analyst Internship
+      company: Axa Direct
+      duration: April 2017 ~ December 2017
+    - logo: https://res.cloudinary.com/dpmmf3aoz/image/upload/v1618554330/og-image_vquzne.png
+      title: Data Consultant Internship
+      company: Cacco
+      duration: March 2018 ~ August 2019
     - logo: https://res.cloudinary.com/dpmmf3aoz/image/upload/v1617627316/RArY2hOC_400x400_twd2rp.jpg
       title: Engineering Internship
       company: Cryptact
-      duration: November 2019
+      duration: November 2019~
 hackathons:
   enable: true
   item:
     - title: Babycathon 2019
-      description: Made a presentaion about unique stroller
+      description: Made a presentaion about unique stroller using technology
       image: https://res.cloudinary.com/dpmmf3aoz/image/upload/v1617627914/p_origin_01_afx8i4.jpg
       url: https://www.pigeon.co.jp/news/assets/pdf/0320.pdf
 certifications:
   enable: true
   item:
+    - title: Japan Statistical Society Certificate, Grade 2
+      image: https://res.cloudinary.com/dpmmf3aoz/image/upload/v1618555688/jssc_l2js3w.jpg
+      url: https://www.toukei-kentei.jp/about/grade2/
+    - title: Fundamental Information Technology Engineer Examination
+      image: https://upload.wikimedia.org/wikipedia/commons/b/b2/IPA_logo.png
+      url: https://www.jitec.ipa.go.jp/1_11seido/fe.html
     - title: Applied Information Technology Engineer Examination
       image: https://upload.wikimedia.org/wikipedia/commons/b/b2/IPA_logo.png
       url: https://www.jitec.ipa.go.jp/1_11seido/ap.html
@@ -49,3 +69,9 @@ awards:
     - title: President Award
       event: Babycathon 2019
       image: https://res.cloudinary.com/dpmmf3aoz/image/upload/v1617627914/p_origin_01_afx8i4.jpg
+    - title: Student Encouragement Award
+      event: The 82nd National Convention of IPSJ
+      image: https://theological.asia/wp-content/uploads/intense-cache/icons/plugin/font-awesome/ban.svg
+    - title: Student Encouragement Award
+      event: The 83rd National Convention of IPSJ
+      image: https://theological.asia/wp-content/uploads/intense-cache/icons/plugin/font-awesome/ban.svg
