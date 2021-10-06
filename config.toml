@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://momom-i.com"
 languageCode = "en-us"
 title = "Momom"
 theme = "hugo-developer-portfolio"
