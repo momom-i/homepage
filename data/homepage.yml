@@ -1,9 +1,9 @@
 banner:
-  title: Hi! I’m momom-ito👋
+  title: Hi! I’m momom👋
 social:
   twitter: ""
   linkedin: ""
-  github: momom-ito
+  github: momom-i
   gitlab: ""
   facebook: ""
   instagram: ""
@@ -29,6 +29,9 @@ skill:
     - title: PostgresSQL
       logo: https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg
       description: Details coming soon, contact me if you want to know more
+    - title: Go
+      logo: https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg
+      description: Details coming soon, contact me if you want to know more
 experience:
   enable: true
   item:
@@ -43,7 +46,15 @@ experience:
     - logo: https://res.cloudinary.com/dpmmf3aoz/image/upload/v1617627316/RArY2hOC_400x400_twd2rp.jpg
       title: Engineering Internship
       company: Cryptact
-      duration: November 2019~
+      duration: November 2019 ~
+    - logo: https://res.cloudinary.com/dpmmf3aoz/image/upload/v1633514591/Wantedly_Mark_LightBG_g8acvh.png
+      title: Engineering Internship
+      company: Wantedly
+      duration: September 2020
+    - logo: https://res.cloudinary.com/dpmmf3aoz/image/upload/v1617627316/RArY2hOC_400x400_twd2rp.jpg
+      title: Engineering Internship
+      company: Merpay
+      duration: August 2021 ~ September 2021
 hackathons:
   enable: true
   item:

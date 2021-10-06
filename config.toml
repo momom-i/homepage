@@ -1,6 +1,6 @@
 baseURL = "http://localhost:1313"
 languageCode = "en-us"
-title = "Momom-ito"
+title = "Momom"
 theme = "hugo-developer-portfolio"
 
 [module]
@@ -30,8 +30,8 @@ URL = "contact"
 [params]
 home = "Home" # What you want the homepage to show up as in the menu bar
 # Meta data
-description = "The website of momom-ito, 2nd Year Computer Science Master's course Student"
-author = "momom-ito"
+description = "The website of momom, 2nd Year Computer Science Master's course Student"
+author = "momom"
 
   [params.contact]
   formAction = "https://formspree.io/f/mwkaklgb"

@@ -1,4 +1,4 @@
-# momom-ito HP
+# momom HP
 
 Here is my HP:
-https://vibrant-payne-457788.netlify.app
+https://momom-i.com/
